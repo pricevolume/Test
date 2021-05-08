@@ -1,3 +1,4 @@
+# Edited: Added this comment
 hungry=input("are u hungry?")
 if hungry=="yes":
 	print("eat samosa")
